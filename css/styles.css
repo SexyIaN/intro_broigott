@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+h2{
+    color: #DC7633;
+}
+li{
+    color: #16F4D9;
+}
+p{
+    color: #DF009B;
+    font-size: 20px
+}
+
+.textuno{ color: darkblue; }
+
+#TextPrincipal { color: darkgreen; }
+
+.textdos{ color: darkred;
+font-size: 35px }
+
+button{
+    /* aqui es para el boton perro, siguele*/
+    background: -webkit-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,1) 50%, rgba(182,141,76,1) 51%, rgba(233,212,179,1) 100%);
+    color: #DF009B;
+    height: 50px;
+    width: 250px;
+    border-radius: 200px 173px 10px 200px;
+    box-shadow: 18px -8px 9px 5px rgba(0,0,0,0.75);
+    margin: 50px
+    
+}

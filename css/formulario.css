@@ -1,0 +1,50 @@
+h1{ color:#E8F702; 
+    text-align: center;
+    font-size: 3vw;
+}
+
+
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background: -webkit-linear-gradient(left, rgba(166,119,0,1) 0%, rgba(184,138,20,1) 0%, rgba(252,205,77,1) 50%, rgba(248,181,0,1) 51%, rgba(184,138,20,1) 100%);
+    background-image: url("../img/fondo\ JC\ 2.jpg");
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-size: cover;
+    margin-top: 40px;
+    background-attachment: fixed;
+}
+
+button { 
+    background-color: darkgray;
+}
+
+button:hover {
+    box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+#content {
+    background-color:  rgba(255,255,255,0.4);
+    width: 33%;
+    margin-left: 33%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top:10px;
+    background-attachment: fixed;
+    /*box-shadow:*/
+}
+
+input{
+    width: 90%;
+    height: 25px;
+    border-radius: 10px;
+}
+
+#content:hover{
+    box-shadow:10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: rgba(136,176,189,0.4);
+}
